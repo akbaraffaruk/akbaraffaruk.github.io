@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28fcc1e9f78ede4042c18f7a287b5c2f",
+    "revision": "6d1c15d0a2aadece7da38ae9fd4d99d3",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "9167b021bcda314f4857",
+    "revision": "9ac642d06f074b663184",
     "url": "/static/css/main.207db4cf.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.530e63cb.chunk.js"
   },
   {
-    "revision": "9167b021bcda314f4857",
-    "url": "/static/js/main.58002bd3.chunk.js"
+    "revision": "9ac642d06f074b663184",
+    "url": "/static/js/main.6f470910.chunk.js"
   },
   {
     "revision": "041a132eba2db194305f",
@@ -48,16 +48,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "374018c0b7c62e3c7926f6fc7f2d5454",
-    "url": "/static/media/SIBAKAT.374018c0.png"
-  },
-  {
     "revision": "6e27704653cf5a3ae714f69e8ccef989",
     "url": "/static/media/Telkom.6e277046.png"
   },
   {
     "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
     "url": "/static/media/airbnbLogo.c59720d6.png"
+  },
+  {
+    "revision": "c3b728393bfc87eb5f877f06784a8c33",
+    "url": "/static/media/bimsys.c3b72839.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -84,10 +84,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "c3b728393bfc87eb5f877f06784a8c33",
-    "url": "/static/media/logo-rounded.c3b72839.png"
-  },
-  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
@@ -98,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
+  },
+  {
+    "revision": "374018c0b7c62e3c7926f6fc7f2d5454",
+    "url": "/static/media/sibakat.374018c0.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
