@@ -184,7 +184,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://sibakat.doment.live/"
+          url: "http://sibakat.akbaraffaruk.tech/"
         }
         //  you can add extra buttons here.
       ]
