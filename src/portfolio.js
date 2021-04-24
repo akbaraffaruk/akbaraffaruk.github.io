@@ -15,7 +15,7 @@ const greeting = {
     "A beginner full stack developer 🚀 having an experience of building Web applications with Laravel."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1JyAFvpGYiP4jHuOLNriQobh7PwOElSIN/view",
+    "https://drive.google.com/file/d/1QvaAnOPPqSFfP08u4CfopqNYmbfqSIRA/view",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
